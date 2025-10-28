@@ -1,0 +1,1 @@
+This is the results of simulating a communication between six sensing nodes and a controller node for a smart agriculture system. The wireless technologies are (wifi, zigbee, 5G, loRa, bluetooth, and NB-IoT)
